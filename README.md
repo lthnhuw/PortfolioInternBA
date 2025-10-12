@@ -88,12 +88,9 @@ In the future, I hope to develop my expertise in business analysis and data anal
 
 <B> Skills: </B>  Requirements Analysis, Data Preparation, Evaluation Metrics (BLEU), Research & Documentation, Insight Communication, Stakeholder Reporting.
 # Skills
-<B>Technical skills:</B> Requirements Analysis, Excel, SQL, Python (Pandas), MongoDB.
+<b> Professional & Technical Skills: </b> Requirement Analysis, Business Process Documentation, Test Case Writing, Figma, Google Workspace, Draw.io, SQL, Excel, Python (Pandas, Matplotlib, Seaborn), Power BI.
 
 <B>Languages:</B> English Proficiency – B1 Certificate (Able to read and comprehend English texts and communicate at a basic level).  
-
-
-<B>Data Visualization:</B> Power BI, Matplotlib, Seaborn
 
 <B>Soft skills:</B> Communication, Interpersonal, Analytical & Critical Thinking, Problem-Solving, Teamwork, Time Management.
 # Education  
