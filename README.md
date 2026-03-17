@@ -90,7 +90,7 @@ In the long term, I aspire to strengthen my expertise in business analysis and d
 # Skills
 <b> Professional & Technical Skills: </b> Requirement Analysis, Business Process Documentation, Test Case Writing, Figma, Google Workspace, Draw.io, SQL, Excel, Python (Pandas, Matplotlib, Seaborn), Power BI.
 
-<B>Languages:</B> English Proficiency – B1 Certificate (Able to read and comprehend English texts and communicate at a basic level).  
+<B>Languages:</B> English Proficiency – B1 Certificate (Able to read and comprehend English texts and communication).  
 
 <B>Soft skills:</B> Communication, Interpersonal, Analytical & Critical Thinking, Problem-Solving, Teamwork, Time Management.
 # Education  
