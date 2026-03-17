@@ -2,11 +2,11 @@
 # About
 Hi, I’m Huynh Nhu.
 
-I am a final-year Computer Science student at Can Tho University with a strong interest in business analysis and data-driven decision-making. I aspire to apply my analytical mindset and technical foundation in a professional environment, where I can support requirement gathering, process analysis, and data visualization to generate meaningful insights for stakeholders.
+I am a recent graduate in Computer Science from Can Tho University with a strong interest in business analysis and data-driven decision-making. I aim to leverage my analytical mindset and technical foundation in a professional environment, where I can contribute to requirements gathering, process analysis, and data visualization to deliver meaningful insights for stakeholders.
 
-With a proactive attitude and willingness to learn, I am eager to collaborate with teams, communicate effectively, and approach problems from multiple perspectives to propose practical solutions. As I am nearing graduation, I am ready to dedicate my full focus and energy to contribute as a Business Analyst Intern at your company.  
+With a proactive attitude and a strong willingness to learn, I am eager to collaborate with cross-functional teams, communicate effectively, and approach challenges from multiple perspectives to propose practical and impactful solutions. As a fresh graduate, I am highly motivated to dedicate my time and effort to contributing as a Business Analyst Intern at your company.
 
-In the future, I hope to develop my expertise in business analysis and data analytics, and become a professional Business Analyst who can bridge business needs with technology solutions to support strategic decision-making.
+In the long term, I aspire to strengthen my expertise in business analysis and data analytics, and grow into a professional Business Analyst who can effectively bridge business needs with technology solutions to support strategic decision-making.
 
 # Table of contents
   - [About](https://github.com/lthnhuw/PortfolioBAIntern/blob/main/README.md)  
