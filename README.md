@@ -94,10 +94,10 @@ In the long term, I aspire to strengthen my expertise in business analysis and d
 
 <B>Soft skills:</B> Communication, Interpersonal, Analytical & Critical Thinking, Problem-Solving, Teamwork, Time Management.
 # Education  
-Bachelor's degree in Computer Science at Can Tho University, Aug 2021 - Dec 2025  
+Bachelor's degree in Computer Science at Can Tho University, Aug 2021 - Jan 2026  
 # Contacts  
 <B> Phone </B>: 0989314773  
 <B> Email </B>: lethnhuw74@gmail.com  
-<B> Address </B>: Binh Thanh, Ho Chi Minh
+<B> Address </B>: Can Tho, Viet Nam
 
 
